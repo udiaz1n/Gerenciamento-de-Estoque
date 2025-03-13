@@ -76,6 +76,16 @@ Contribuição:
 
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corrigir erros ou adicionar novas funcionalidades ao projeto.
 
+Autor:
+
+David Dias
+
+Contato:
+
+Github: udiaz1n
+
+LinkedIn: https://www.linkedin.com/in/david-dias1/
+
 
 Observação:
 
