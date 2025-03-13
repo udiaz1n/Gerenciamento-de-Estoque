@@ -30,24 +30,38 @@ Demonstração de exemplos de consultas SQL para manipular dados nas tabelas, co
 
 Habilidades Demonstradas:
 
-Modelagem de banco de dados relacional.
-Criação e manipulação de tabelas SQL.
-Utilização de chaves primárias e estrangeiras.
-Implementação de triggers para automação de tarefas.
-Criação de stored procedures para geração de relatórios.
+Modelagem de banco de dados relacional;
+
+Criação e manipulação de tabelas SQL;
+
+Utilização de chaves primárias e estrangeiras;
+
+Implementação de triggers para automação de tarefas;
+
+Criação de stored procedures para geração de relatórios;
+
 Elaboração de consultas SQL para análise de dados.
 
 Como Utilizar:
 
 Configuração do Ambiente:
-Certifique-se de ter um sistema de gerenciamento de banco de dados (SGBD) instalado, como MySQL, PostgreSQL ou SQL Server.
+
+Certifique-se de ter um sistema de gerenciamento de banco de dados (SGBD) instalado, como MySQL, PostgreSQL ou SQL Server;
+
 Crie um novo banco de dados para o projeto.
+
 Execução dos Scripts:
-Execute os scripts SQL fornecidos no repositório para criar as tabelas, triggers e stored procedures.
+
+Execute os scripts SQL fornecidos no repositório para criar as tabelas, triggers e stored procedures;
+
 Insira os dados de exemplo para popular o banco de dados.
+
 Testes e Consultas:
-Execute as consultas SQL de exemplo para visualizar os dados e testar as funcionalidades do sistema.
+
+Execute as consultas SQL de exemplo para visualizar os dados e testar as funcionalidades do sistema;
+
 Utilize as stored procedures para gerar os relatórios de estoque.
+
 Contribuição:
 
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corrigir erros ou adicionar novas funcionalidades ao projeto.
